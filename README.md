@@ -11,14 +11,14 @@ For a full list of available icons see [the SVG directory](./resources/svg). Ion
 
 ## Requirements
 
-- PHP 7.2 or higher
-- Laravel 7.14 or higher
+- PHP 8.2 or higher
+- Laravel 10 or higher
 ## Installation
 
 You can install the package via composer:
 
 ```bash
-composer require faisal50x/blade-ionicons
+composer require nextmwa/blade-ionicons
 ```
 
 ## Usage
@@ -64,23 +64,5 @@ Blade ionicons uses Blade Icons under the hood. Please refer to [the Blade Icons
 composer test
 ```
 
-### Changelog
-
-Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
-
-### Security
-
-If you discover any security related issues, please email foysal20x@gmail.com instead of using the issue tracker.
-
 ## Maintainers
 Blade Ionicons is developed and maintained by [Faisal Ahmed](https://linkedin.com/in/Faisal50x)
-
-- [All Contributors](../../contributors)
-
-## License
-
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-## Laravel Package Boilerplate
-
-This package was generated using the [Laravel Package Boilerplate](https://laravelpackageboilerplate.com).
