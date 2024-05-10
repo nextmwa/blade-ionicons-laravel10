@@ -21,8 +21,8 @@
     ],
     "require": {
         "php": "^8.2",
-        "illuminate/support": "^11.0",
-        "blade-ui-kit/blade-icons": "^1.5"
+        "illuminate/support": "^11.0.0",
+        "blade-ui-kit/blade-icons": "^1.5.0"
     },
     "require-dev": {
         "orchestra/testbench": "^9.0",
